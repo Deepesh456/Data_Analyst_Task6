@@ -57,9 +57,8 @@ The SQL analysis focuses on the following key business questions:
 
 The repository includes the following:
 
-- `Online_Sales_Data.xlsx`: Original Excel dataset used for importing  
-- `sales_analysis_queries.sql`: SQL script file containing all analysis queries  
-- `query_results_screenshots/`: Folder containing screenshots of executed query results  
+- `Online_Sales.xlsx`: Original Excel dataset used for importing  
+- `online_sales_analysis.sql`: SQL script file containing all analysis queries  
 - `Tables_with_queries.zip`: A compressed file that contains all SQL queries, screenshots, and result tables, organized for easy access and review
 
 ## Execution Notes
