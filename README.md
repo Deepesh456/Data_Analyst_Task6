@@ -9,7 +9,7 @@ This project showcases a comprehensive SQL-based analysis of online sales data. 
 - **Database**: MariaDB  
 - **Server**: XAMPP (Apache, MariaDB, PHP, Perl)  
 - **Query Interface**: phpMyAdmin / MySQL Workbench  
-- **Data Format**: Excel (.xlsx)
+- **Data Format**: CSV
 
 ## Dataset Description
 
@@ -57,7 +57,7 @@ The SQL analysis focuses on the following key business questions:
 
 The repository includes the following:
 
-- `Online_Sales.xlsx`: Original Excel dataset used for importing  
+- `Online_Sales.csv`: Original Excel dataset used for importing  
 - `online_sales_analysis.sql`: SQL script file containing all analysis queries  
 - `Tables_with_queries.zip`: A compressed file that contains all SQL queries, screenshots, and result tables, organized for easy access and review
 
